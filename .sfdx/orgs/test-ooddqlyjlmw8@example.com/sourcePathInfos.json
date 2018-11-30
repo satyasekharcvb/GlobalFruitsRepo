@@ -1,0 +1,348 @@
+[
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app",
+        {
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1543558047997,
+            "changeTime": 1543558047997,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main",
+        {
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1543558047997,
+            "changeTime": 1543558047997,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1543559248767,
+            "changeTime": 1543559248767,
+            "contentHash": "5d01f3b640c9658c0be9fcc395da6b802cf0cc2c"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1543558047997,
+            "changeTime": 1543558047997,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport",
+        {
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1543558392332,
+            "changeTime": 1543558392332,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2059,
+            "modifiedTime": 1543559248696,
+            "changeTime": 1543559248696,
+            "contentHash": "67dce9ac83e953fa2acd5a662a4545dc88167876"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields/Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields/Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1543559248697,
+            "changeTime": 1543559248697,
+            "contentHash": "8f3d30a94f607cdca19fc6e305e4152720235194"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields/Fruit_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields/Fruit_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1543559248698,
+            "changeTime": 1543559248698,
+            "contentHash": "e39b5168ee6b758cc8ea0f1b9a9790b32d914b99"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1543559248699,
+            "changeTime": 1543559248699,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/layouts/Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/layouts/Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2224,
+            "modifiedTime": 1543559248715,
+            "changeTime": 1543559248715,
+            "contentHash": "c24165b564a5f4a2cd98abafeac67395e3f007e1"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/flexipages/Global_Fruits_App_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/flexipages/Global_Fruits_App_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 512,
+            "modifiedTime": 1543559248725,
+            "changeTime": 1543559248725,
+            "contentHash": "46190df3c79cbc546b2398ddbadfc77e20c3d296"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/tabs/Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/tabs/Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1543559248728,
+            "changeTime": 1543559248728,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/applications/Global_Fruits_App.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/applications/Global_Fruits_App.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 616,
+            "modifiedTime": 1543559248733,
+            "changeTime": 1543559248733,
+            "contentHash": "2fb85e22f1b34b526eda9e92a4df53557e3caf8b"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18898,
+            "modifiedTime": 1543559248779,
+            "changeTime": 1543559248779,
+            "contentHash": "aa3de31a8eb8894e5de9f495f61b4784c55c5365"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5032,
+            "modifiedTime": 1543559248788,
+            "changeTime": 1543559248788,
+            "contentHash": "46eeb0b5d43113afe55b5b520c9c9fe6fc19c706"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5032,
+            "modifiedTime": 1543559248797,
+            "changeTime": 1543559248797,
+            "contentHash": "46eeb0b5d43113afe55b5b520c9c9fe6fc19c706"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5370,
+            "modifiedTime": 1543559248805,
+            "changeTime": 1543559248805,
+            "contentHash": "925c6103264293e8598e308d015d680ce55fcff8"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1543559248698,
+            "changeTime": 1543559248698,
+            "contentHash": "85854a5d7cdfab6339061a1b234df512795d4860"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543559248693,
+            "changeTime": 1543559248693,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543559248698,
+            "changeTime": 1543559248698,
+            "contentHash": "b2e2f7b67d9d9fc60c14d64f8a468f53c24a9e26"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/objects/Fruit__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543559248699,
+            "changeTime": 1543559248699,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543559248715,
+            "changeTime": 1543559248715,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543559248725,
+            "changeTime": 1543559248725,
+            "contentHash": "7f640e7495a9ec259df6e31ade3ce8d111d52ecb"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543559248728,
+            "changeTime": 1543559248728,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543559248733,
+            "changeTime": 1543559248733,
+            "contentHash": "171dbc329d981063f1e19f96c0d73a9309161b9b"
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/myFolders/SfdxWebinar/FruitsImportExport/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1543559248805,
+            "changeTime": 1543559248805,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
